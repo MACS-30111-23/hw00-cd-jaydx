@@ -1,22 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/bEPlIkIB)
-# hw01
+# Hello, World I'm Jayda
 
-Edit this README file to include a brief biography of yourself. Your README should include the following elements:
-* Headers (one or more)
-* Emphasis (italics or/and bold)
-* Lists
-* Images: add a picture (of yourself or something else) to your repo and embed it in your README
-* Links
-* A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
+Some **fun** facts about me:
+1. I am from *Stone Mountain, Georgia*
+2. I am the second oldest of 5 children.
+3. In undergrad, I studied Psychology and Theater and Performance Studies.
+4. My parents are from Jamaica and I love to cook and eat Jamaican food. Here is a picture I took from the last time I was in Jamaica!
+![Alt text](IMG_6107.png)
+5. Along with cooking, I am very fond of watching cooking videos on YouTube. Here is a video from one of my favorite series: [4 Levels of Pasta Bolognese: Amateur to Food Scientist | Epicurious](https://youtu.be/t-e_xTbAydE?si=5D_yT67YH1kYGyLb)
+6. I am also a big movie lover and love to review movies on my [letterboxd](https://letterboxd.com/jaydawatches/). My dream is to one day be able to write and direct a movie of my own!
+7. I am also uber into astrology and my big 3 is as follows: 
+    * Libra sun
+    * Gemini moon
+    * Scorpio rising
 
-
-
-## 📚  Resources 
-* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
-* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
-* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-* [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
-* [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
-* [GitHub's Learning Lab](https://lab.github.com/)
-* [Education community forum](https://education.github.community/)
-* [GitHub community forum](https://github.community/)
+To begin this assignment I created a folder in vscode to put my homework for this class in. I then used *git clone* and a link of the assignment that I got from github in the terminal to access the assigment. I knew beforehand how to do most of the requirements for the assignemnt but had no previous experience adding images or links so I looked at *stack overflow* to find a solution for the best approach. I did have to use an online convertor for my image because it was a HEIC not a PNG but otherwise the process was quite straight forward. I then saved the md file and used *git add .* (after making sure I as in the right directory) then *git commit -m "Jayda HW1"* and *git push* in the terminal to upload it. 
